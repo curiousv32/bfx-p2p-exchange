@@ -1,5 +1,3 @@
-Absolutely! I’ve updated the Markdown to include a **“How to Run the Project”** section. You can save this as `README.md`.
-
 ````markdown
 # ⭐ P2P Distributed Exchange Readme: BFX Challenge ⭐
 
